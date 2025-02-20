@@ -1,0 +1,30 @@
+url: https://BryanTeresa0925.github.io
+baseurl: 
+
+# Site settings
+title: Bryan & Teresa's 5th Wedding Anniversary Extravaganza
+email: 
+description: "Y'all, we got MURRIED."
+
+
+# Team names, titles and social links
+people:
+- name: Teresa Portone
+  pic: teresa
+  position: Cat Lap 1
+
+- name: Bryan Reuter
+  pic: bryan
+  position: Cat Lap 2
+
+- name: Nico Portone
+  pic: nico
+  position: Lap Cat 1
+
+- name: Kimi Reuter
+  pic: kimi
+  position: Lap Cat 2
+
+# Build settings
+markdown: kramdown
+permalink: pretty
