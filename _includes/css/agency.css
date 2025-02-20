@@ -634,7 +634,7 @@ section h3.section-subheading {
 }
 
 .team-member {
-    margin-bottom: 10px;
+    margin-bottom: 30px;
     text-align: center;
 }
 
@@ -870,4 +870,8 @@ body {
 /* Custom addition */
 .col-sm-4{
     width:25%;
+}
+
+.col-lg-8{
+    width:100%;
 }
